@@ -212,3 +212,63 @@ a:hover {
     grid-row-start: 3;
     grid-row-end: 6;
 }
+
+/*--Contact--*/
+#contact {
+    display: flex;
+    padding: 10px;
+}
+
+.contact-head {
+    float: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5vh;
+    margin: 30px;
+    margin-top: 120px
+}
+
+.contact-desc {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Petit Formal Script', cursive;
+    margin-left: 75px;
+    margin-top: 80px;
+}
+
+.contact-text {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+}
+
+.contact-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+    width: 80px;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+}
+
+ .contact-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+} 
+
+@media (max-width: 900px) {
+    body {
+        background-color: red;
+    }
+}
