@@ -71,3 +71,34 @@ a:hover {
     font-size: 6vh;
     font-family: 'Petit Formal Script', cursive;
 }
+
+#hailey-pic {
+    height: 14%;
+    width: 14%;
+    margin: 42px;
+    border-radius: 50%;
+}
+
+/*--Sub-header--*/
+
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 80px;
+    border-bottom: 6px dotted;
+
+}
+
+.flex1,
+.flex2,
+.flex3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7vw;
+}
+
+.flex2 {
+    color: rgb(241, 241, 232);
+    text-decoration: underline;
+}
