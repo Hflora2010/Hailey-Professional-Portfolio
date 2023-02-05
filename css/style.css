@@ -6,7 +6,6 @@
 }
 
 /*--Element Selectors--*/
-
 body {
     background-color: rgb(249, 213, 194);
 }
@@ -20,7 +19,6 @@ a:hover {
 }
 
 /*--Header Nav and Main Image--*/
-
 .header {
     position: sticky;
     top: 0px;
@@ -80,7 +78,6 @@ a:hover {
 }
 
 /*--Sub-header--*/
-
 .flexcontainer {
     display: flex;
     flex-direction: row;
@@ -88,7 +85,6 @@ a:hover {
     align-items: center;
     padding-right: 80px;
     border-bottom: 6px dotted;
-
 }
 
 .flex1,
@@ -102,3 +98,52 @@ a:hover {
     color: rgb(241, 241, 232);
     text-decoration: underline;
 }
+
+/*--About--*/
+#about {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    border-bottom: 6px dotted black;
+    justify-content: space-between;
+
+}
+
+.about-head {
+    display: flex;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5vh;
+    justify-content: center;
+    /* margin-right: 40px; */
+}
+
+#stow-sunset {
+    margin: 25px;
+    height: 18%;
+    width: 20%;
+    border: 3px solid #1e1e1e;
+    border-radius: 10%;
+    justify-content: center;
+}
+
+.about-desc {
+    border: 3px solid #1e1e1e;
+    background-color: rgb(241, 241, 232);
+    text-align: center;
+    padding: 50px 6px;
+    border-radius: 10%;
+}
+
+.last-line {
+    font-family: 'Petit Formal Script', cursive;
+}
+
+#group-photo {
+    margin: 25px;
+    height: 18%;
+    width: 20%;
+    border: 3px solid #1e1e1e;
+    border-radius: 10%;
+    justify-content: center;
+}
+
