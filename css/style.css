@@ -18,3 +18,56 @@ a {
 a:hover {
     color: gray;
 }
+
+/*--Header Nav and Main Image--*/
+
+.header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #1e1e1e;
+    color: rgb(241, 241, 232);
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.header nav {
+    padding-top: 10px;
+    margin-right: 20px;
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: block;
+    margin-left: 25px;
+    float: right;
+}
+
+.mainimage {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    border-bottom: 6px dotted;
+
+}
+
+#name {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 6vh;
+    font-family: 'Petit Formal Script', cursive;
+}
