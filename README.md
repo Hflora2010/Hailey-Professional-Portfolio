@@ -8,7 +8,7 @@ I have created a Professional Porfolio that describes the work I have completed 
 
 Below is a link to my deployed portfolio:
 
-<a href="">Hailey Flora's Portfolio</a>
+<a href="https://hflora2010.github.io/Hailey-Professional-Portfolio/">Hailey Flora's Portfolio</a>
 
 Below is a screenshot of the website you will access with the link above:
 
