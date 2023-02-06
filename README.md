@@ -22,6 +22,6 @@ Reference Pages: <br>
 <a href="https://uxwing.com/"> Symbols</a> <br>
 <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-basic-css-by-building-a-cafe-menu"> Opening link in a new Tab</a> <br>
 <a href="https://fonts.google.com/"> Downloading Fonts</a> <br>
-<a href="https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/"> Grid Gallery Code</a>
-<a href="https://www.elegantthemes.com/blog/wordpress/call-link-html-phone-number"> Linking Phone Number</a>
+<a href="https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/"> Grid Gallery Code</a><br>
+<a href="https://www.elegantthemes.com/blog/wordpress/call-link-html-phone-number"> Linking Phone Number</a><br>
 <a href="https://www.mockplus.com/blog/post/contact-us-page-template"> Contact me ideas
