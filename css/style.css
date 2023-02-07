@@ -106,6 +106,7 @@ figure h2 { /*--got this code from https://www.w3schools.com/howto/howto_css_her
     padding: 40px;
     border-bottom: 6px dotted black;
     justify-content: space-between;
+    scroll-margin-top: 70px;
 
 }
 
@@ -144,6 +145,7 @@ figure h2 { /*--got this code from https://www.w3schools.com/howto/howto_css_her
     padding: 10px;
     justify-content: space-between;
     border-bottom: 6px dotted;
+    scroll-margin-top: 80px;
 }
 
 #work h2 {
@@ -209,6 +211,7 @@ figure h2 { /*--got this code from https://www.w3schools.com/howto/howto_css_her
 #contact {
     display: flex;
     padding: 10px;
+    scroll-margin-top: 200px;
 }
 
 .contact-head {
@@ -262,6 +265,7 @@ figure h2 { /*--got this code from https://www.w3schools.com/howto/howto_css_her
         align-items: center;
         width: 100%;
         margin: 0;
+        text-align: center;
     }
 
 }
